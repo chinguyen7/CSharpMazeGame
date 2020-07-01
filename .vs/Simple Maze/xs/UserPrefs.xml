@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E9B67126-2757-E52C-F599-B76EAFCCC101}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/player_movements.cs">
+    <Files>
+      <File FileName="Assets/Scripts/rotator.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/player_movements.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Simple Maze" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="player_movements.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1b1ef8e2-4258-4c63-8e7d-fcb04b1cb766" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
